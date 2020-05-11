@@ -1,0 +1,13 @@
+C:\Users\Arosario\PersProj\practiseProj01\bin\Debug\netcoreapp3.1\practiseProj01.exe
+C:\Users\Arosario\PersProj\practiseProj01\bin\Debug\netcoreapp3.1\practiseProj01.deps.json
+C:\Users\Arosario\PersProj\practiseProj01\bin\Debug\netcoreapp3.1\practiseProj01.runtimeconfig.json
+C:\Users\Arosario\PersProj\practiseProj01\bin\Debug\netcoreapp3.1\practiseProj01.runtimeconfig.dev.json
+C:\Users\Arosario\PersProj\practiseProj01\bin\Debug\netcoreapp3.1\practiseProj01.dll
+C:\Users\Arosario\PersProj\practiseProj01\bin\Debug\netcoreapp3.1\practiseProj01.pdb
+C:\Users\Arosario\PersProj\practiseProj01\obj\Debug\netcoreapp3.1\practiseProj01.csprojAssemblyReference.cache
+C:\Users\Arosario\PersProj\practiseProj01\obj\Debug\netcoreapp3.1\practiseProj01.csproj.CoreCompileInputs.cache
+C:\Users\Arosario\PersProj\practiseProj01\obj\Debug\netcoreapp3.1\practiseProj01.AssemblyInfoInputs.cache
+C:\Users\Arosario\PersProj\practiseProj01\obj\Debug\netcoreapp3.1\practiseProj01.AssemblyInfo.cs
+C:\Users\Arosario\PersProj\practiseProj01\obj\Debug\netcoreapp3.1\practiseProj01.dll
+C:\Users\Arosario\PersProj\practiseProj01\obj\Debug\netcoreapp3.1\practiseProj01.pdb
+C:\Users\Arosario\PersProj\practiseProj01\obj\Debug\netcoreapp3.1\practiseProj01.genruntimeconfig.cache
